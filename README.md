@@ -135,3 +135,4 @@ Please see our guide on [contributing](CONTRIBUTING.md) if you're interested in 
 - Follow [@openlayers](https://twitter.com/openlayers) on Twitter
 
 ![Test Status](https://github.com/openlayers/openlayers/workflows/Test/badge.svg)
+test
